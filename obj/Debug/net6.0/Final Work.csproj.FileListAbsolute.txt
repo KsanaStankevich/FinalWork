@@ -1,0 +1,15 @@
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.csproj.AssemblyReference.cache
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.AssemblyInfoInputs.cache
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.AssemblyInfo.cs
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.csproj.CoreCompileInputs.cache
+C:\Education\Final Work\bin\Debug\net6.0\Final Work.exe
+C:\Education\Final Work\bin\Debug\net6.0\Final Work.deps.json
+C:\Education\Final Work\bin\Debug\net6.0\Final Work.runtimeconfig.json
+C:\Education\Final Work\bin\Debug\net6.0\Final Work.dll
+C:\Education\Final Work\bin\Debug\net6.0\ref\Final Work.dll
+C:\Education\Final Work\bin\Debug\net6.0\Final Work.pdb
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.dll
+C:\Education\Final Work\obj\Debug\net6.0\ref\Final Work.dll
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.pdb
+C:\Education\Final Work\obj\Debug\net6.0\Final Work.genruntimeconfig.cache
