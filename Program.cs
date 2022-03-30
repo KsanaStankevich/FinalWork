@@ -8,7 +8,7 @@
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
-string[] mass = {"1234", "1567", "-2", "computer science"};
+string[] mass = {"1234", "б", "1567", "-2", "computer science", "ап"};
 // int length = mass[3].Length;
 
 for (int i = 0; i < mass.Length; i++)
