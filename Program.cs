@@ -8,9 +8,7 @@
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 // ["Russia", "Denmark", "Kazan"] -> []
 
-string[] mass = { "1234", "б", "1567", "-2", "computer science", "ап", "djhdejj"};
-// int length = mass[3].Length;
-// string[] newmass = new String[];
+string[] mass = { "1234", "б", "1567", "-2", "computer science", "ап", "djhdejj", "приветик" };
 int counter = 0;
 
 for (int i = 0; i < mass.Length; i++) //Считаем сколько элементов будет в новом массиве
@@ -18,12 +16,17 @@ for (int i = 0; i < mass.Length; i++) //Считаем сколько элеме
     int length = mass[i].Length;
     if (length >= 3) counter++;
 }
-Console.WriteLine(counter);
 
+string[] newmass = new string[counter]; //Объявляем новый массив посчитанной длины
 
-
-// for (int i = 0; i < mass.Length; i++)
-// {
-//     int length = mass[i].Length;
-//     if (length >= 3) Console.Write(mass[i] + " ; ");
-// }
+for (int i = 0; i < mass.Length; i++) //Перебором складываем подходящие значения из первого массива во второй
+{
+    int j = 0;
+    int length = mass[i].Length;
+    if (length >= 3)
+    {
+        newmass[j] = mass[i];
+        Console.Write(newmass[j] + " ; ");
+        j++;
+    }
+}
